@@ -19,16 +19,21 @@
         - Do this
 - Elif: This one is really similar to the last one, but the key difference is the order, "If" always is first, and "Elif" comes after
     - If (x>7):
-        - Do this
+
+        Do this
     - Elif (x<2):
-        - Do that
-- Else: The last one of this kind, it's used in the end of the statement, like this:
+
+        Do that
+    - Else: The last one of this kind, it's used in the end of the statement, like this:
     - If (x>7):
-        - Do this
+
+        Do this    
     - Elif (x<2):
-        - Do that
+
+        Do that    
     - Else:
-        - Do nothing(or anything you like)
+        
+        Do nothing(or anything you like)
 
 ### Looping ir iteration Statements
 
@@ -36,8 +41,8 @@
 
     - While: The use of this statement, summarize in looping something, until something else changes the value of true of the proposition
         - While (i<7):
-            - Suma = Suma + i * x
-            - i = i + 1
+            Suma = Suma + i * x
+            i = i + 1
         - This statement makes everything inside the while to repeat until i becomes bigger than 7, you need to be careful of infinite loops
 
     - For: This is like the last one, but in a set list, like, numbers from 1 to 10, or letters in the word "Hello"
